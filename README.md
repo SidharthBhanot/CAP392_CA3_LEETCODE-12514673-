@@ -7,4 +7,4 @@ This repository contains 16 Java solutions arranged by LeetCode difficulty.
 - `Medium/` – Questions 10–14
 - `Hard/` – Questions 15–16
 
-Each source file is kept as submitted, with a consistent `.java` extension and filename.
+
